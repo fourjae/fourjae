@@ -16,7 +16,9 @@
 
 ### Project
 
-#### 새싹챌린지 사이트 개발
+<br>
+
+#### - 새싹챌린지 사이트 개발
 
 https://github.com/qaws5656/SSC-BACK-REAL - BE(Node.JS) 개발 - 구동중(http://sschall.xyz)
 
@@ -24,15 +26,14 @@ https://github.com/qaws5656/SSC-BACK-REAL - BE(Node.JS) 개발 - 구동중(http:
 
 BE가 어떻게 돌아가고 어떻게 작동하는지 개발단에서 공부하고 습득
 
-#### League of Legends 전적검색 갱신 구현
+<br>
+
+#### - League of Legends 전적검색 갱신 구현
 https://github.com/fourjae/lolsearch - Python(Flask) 개발 - 시험용
 
-API 요청 후 결과값에 대한 데이터 처리를 위해 파이썬 사용
-multiprocessing을 이용하여 프로세서 갯수만큼 병렬처리
+API 요청 후 결과값에 대한 데이터 처리를 위해 파이썬 사용 multiprocessing을 이용하여 프로세서 갯수만큼 병렬처리
 
-문제점1 - 데이터 가공 후 값을 주면 프론트가 조금 헷갈려 한다.
 
-문제점2 - 데이터 가공상태가 최적화 되지 않아 DB 연동 후 데이터를 넣을 때 어려움이 있을 것
 
 ### Algorithm
 
