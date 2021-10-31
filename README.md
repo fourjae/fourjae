@@ -14,7 +14,7 @@
 
 # Development activities
 
-### Project
+## Project
 
 <br>
 
@@ -33,11 +33,23 @@ https://github.com/fourjae/lolsearch - Python(Flask) 개발 - 시험용
 
 API 요청 후 결과값에 대한 데이터 처리를 위해 파이썬 사용 multiprocessing을 이용하여 프로세서 갯수만큼 병렬처리
 
+<br>
 
+## Contest
 
-### Algorithm
+#### - 소프트웨어 개발보안 시큐어코딩 해커톤 시즌3 참여
 
-https://solved.ac/profile/fourjae
+주제선정 - SpringBoot 기반 보안약점이 제거된 웹 개발
+
+#### - 캡스톤디자인 아이디어 해커톤 경진대회(2021) 장려상
+
+주제선정 - 시각 장애인을 위한 VQA 기반 온라인 쇼핑몰 질의 응답 플랫폼
+
+<br>
+
+## Algorithm
+
+https://solved.ac/profile/fourjae - Gold III
 
 * * *
 
