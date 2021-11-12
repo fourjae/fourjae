@@ -49,8 +49,10 @@ API 요청 후 결과값에 대한 데이터 처리를 위해 파이썬 사용 m
 
 ## Algorithm
 
-https://solved.ac/profile/fourjae - Gold III
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fourjae)](https://solved.ac/fourjae/)
+
+https://solved.ac/profile/fourjae
 * * *
 
 # Security activities
