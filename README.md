@@ -18,7 +18,7 @@
 
 <br>
 
-#### - 새싹챌린지 사이트 개발 (잠시 private로 돌리고 서버 유지보수중...)
+#### - 새싹챌린지 사이트 개발
 
 https://github.com/qaws5656/SSC-BACK-REAL - BE(Node.JS) 개발 - 구동중(http://sschall.xyz)
 
