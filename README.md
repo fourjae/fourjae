@@ -1,4 +1,4 @@
-
+(개발자 지망생으로써.. 깃허브와 프로젝트 내용을.. 빨리 정리하자)
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
