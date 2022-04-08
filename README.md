@@ -21,7 +21,7 @@
 
 https://github.com/fourjae/SSC-Back-Public - BE(Node.JS) 개발 - 구동중(http://sschall.xyz)
 
-기본적인 관리자 페이지 , 유저 페이지 등 CRUD기능 개발(ORM 사용) , 권한 검증 , 모듈 함수화 구현 , PassPort 로그인 구현 등
+기본적인 관리자 페이지 , 유저 페이지 등 CRUD기능 개발(ORM 사용) , 권한 검증 , 모듈 함수화 구현 , passport 로그인 구현 등
 
 BE가 어떻게 돌아가고 어떻게 작동하는지 개발단에서 공부하고 습득
 
