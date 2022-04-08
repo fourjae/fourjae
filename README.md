@@ -1,7 +1,7 @@
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
-<img src="https://img.shields.io/badge/spring-orange?style=flat-square&logo=spring&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Springboot-orange?style=flat-square&logo=spring&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/PHP-blue?style=flat-square&logo=PHP&logoColor=white"/></a> &nbsp
@@ -36,11 +36,15 @@ API 요청 후 결과값에 대한 데이터 처리를 위해 파이썬 사용 m
 
 ## Contest
 
-#### - 소프트웨어 개발보안 시큐어코딩 해커톤 시즌3 참여
+#### - 2021 소프트웨어 개발보안 시큐어코딩 해커톤 시즌3 참여
 
-#### - 캡스톤디자인 아이디어 해커톤 경진대회(2021) 장려상
+#### - 2021 캡스톤디자인 아이디어 해커톤 경진대회 참가상
 
-주제선정 - 시각 장애인을 위한 VQA 기반 온라인 쇼핑몰 질의 응답 플랫폼
+주제 - 시각 장애인을 위한 VQA 기반 온라인 쇼핑몰 질의 응답 플랫폼
+
+#### - 2022 Stop Covid-19 SW Challenge 아이디어 해커톤 참여
+
+
 
 #### - 2021 순천향 SW 경시대회 SW 프로그래밍 장려상
 
