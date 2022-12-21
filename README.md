@@ -25,6 +25,10 @@
 
 ## Main Project
 
+#### - 스포티 노트 개발
+
+https://github.com/fourjae/Sporty-Note-Server/tree/master - Java(Spring boot) 백엔드 개발
+
 #### - 새싹챌린지 사이트 개발
 
 ![image](https://user-images.githubusercontent.com/47708717/181795447-e0ba95f9-7d50-44ce-9029-44b5d54dd8fb.png)
