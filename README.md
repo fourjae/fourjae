@@ -11,18 +11,6 @@
 <img src="https://img.shields.io/badge/Python-yellogreen?style=flat-square&logo=C%20AWS&logoColor=yellowgreen"/></a> &nbsp
 </p>
 
-## Development activities
-
-2022.04 ~ 2022.11 - 소프트웨어 마에스트로 13기
-
-2021.01 ~ 2021.01 - 삼성SDS 2022 동계 알고리즘 교육 수료
-
-2020.09 ~ 2021.06 - 컴퓨팅적사고와 문제해결 학습튜터 
-
-2021.03 ~ 2021.11 - 코딩교육봉사동아리 활동
-
-2020.02 ~ 2021.12 - SecurityFirst OB
-
 ## Main Project
 
 #### - 스포티 노트 개발
