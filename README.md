@@ -23,10 +23,19 @@ https://github.com/fourjae/Sporty-Note-Server/tree/master - Java(Spring boot) �
 
 https://github.com/fourjae/SSC-Back-Public - Js(Node.JS) 백엔드 개발
 
-## etc: Project
+## etc: Develop
 
 #### - League of Legends 전적검색 갱신 구현
 https://github.com/fourjae/lolsearch - Python(Flask) 데이터 파싱 개발
+
+## etc: Study
+
+#### - Today I Learned (TIL)
+https://github.com/fourjae/TIL
+
+#### - Book I Read 기술서적 읽기
+https://github.com/fourjae/Book-I-Read
+
 
 ## Contest
 <!--
