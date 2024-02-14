@@ -1,4 +1,14 @@
-#### 안녕하세요. 저는 Java 기반으로 웹 서버 애플리케이션을 개발하고 k8s, docker, jenkins를 사용하여 인프라를 설계, 운영, 배포를 진행하는 개발자 입니다. ####
+#### 안녕하세요. 저는 Java 기반으로 웹 서버 애플리케이션을 개발하고 ####
+#### k8s, docker, jenkins를 사용하여 인프라를 설계, 운영, 배포를 진행하고 있는 주니어 개발자 입니다. ####
+
+---
+
+### **Contract**
+
+---
+
+- **Email** : fourjae@naver.com
+- **Github** : github.com/fourjae
 
 ---
 
@@ -7,9 +17,6 @@
 - [Experience](https://productive-nasturtium-82c.notion.site/Experience-315f38d54eb846289816cdee3b8f1238?pvs=4)
 
 - [Blog](https://fourjae.tistory.com)
-
-- [Email](fourjae@naver.com)
-
 
 ---
 
